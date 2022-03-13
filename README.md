@@ -7,6 +7,7 @@
   I also like to learn new skills from time to time and add them to my knowledge trove.<br>
   Currently learning <b>Backend Development</b> and <b>Databases</b>.<br>
   Will definitely try my hand at <b>Cloud Technologies</b> and <b>Game Development</b> in the future.</p>
+<p>I also participate in <b>Competetive Coding Challenges</b>.</p>
 
 <h3>Things I code with</h3>
 <p>
