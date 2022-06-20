@@ -2,7 +2,7 @@
 
 
 <p>Welcome to my page! <br> I'm Vishrut from <b>Delhi, India</b>.</p>
-<p>I am a second year CSE student who is enthusiastic about <b>Web Development</b>, <b>Cyber Security</b> and <b>Blockchain Technologies</b>.<br>
+<p>I am a third year CSE student who is enthusiastic about <b>Web Development</b>, <b>Cyber Security</b> and <b>Blockchain Technologies</b>.<br>
   I like to make <b>Pixel art</b> when I'm free from work. May even dip my feet in NFTs in the future.<br>
   I also like to learn new skills from time to time and add them to my knowledge trove.<br>
   Currently learning <b>Backend Development</b> and <b>Databases</b>.<br>
