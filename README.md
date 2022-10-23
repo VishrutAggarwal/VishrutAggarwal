@@ -31,9 +31,9 @@
 
 <h3>Some Stats</h3>
 
-<div style="display: flex; flex-direction: row; gap: 1rem;">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=VishrutAggarwal&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="VishrutAggarwal" /></p>
+<!-- <div style="display: flex; flex-direction: row; gap: 1rem;"> -->
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=VishrutAggarwal&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="VishrutAggarwal" /></p>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VishrutAggarwal&layout=compact&theme=chartreuse-dark" alt="VishrutAggarwal" /></p>
- </div>
+<!--  </div> -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VishrutAggarwal&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="VishrutAggarwal" /></p>
