@@ -2,11 +2,11 @@
 
 
 <p>Welcome to my page! <br> I'm Vishrut from <b>Delhi, India</b>.</p>
-<p>I am a third year CSE student who is enthusiastic about <b>Web Development</b>, <b>Cyber Security</b> and <b>Blockchain Technologies</b>.<br>
+<p>I am a final year CSE student who is enthusiastic about <b>Web Development</b>, <b>Cloud Security</b> and <b>Blockchain Technologies</b>.<br>
   I like to make <b>Pixel art</b> when I'm free from work. May even dip my feet in NFTs in the future.<br>
   I also like to learn new skills from time to time and add them to my knowledge trove.<br>
-  Currently enhancing my <b>Full Stack Development</b> skills.<br>
-  Will definitely try my hand at <b>Cloud Technologies</b> and <b>Game Development</b> in the future.</p>
+  Currently enhancing my <b>Full Stack Development</b> and <b>Cloud Computing</b> skills.<br>
+  Will definitely try my hand at <b>Game Development</b> in the future.</p>
 <p>I also participate in <b>Competitive Coding Challenges</b>.</p>
 
 <h3>Things I code with</h3>
